@@ -162,7 +162,8 @@ torchaudio==2.9.0
 torchvision==0.24.0
 tqdm==4.67.1
 transformers==5.10.0
-trimesh==4.9.0	riton==3.5.0
+trimesh==4.9.0	
+triton==3.5.0
 typeguard==4.4.4
 typer-slim==0.21.1
 types-python-dateutil==2.9.0.20250516
