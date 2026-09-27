@@ -106,6 +106,7 @@ demo/configs/_*.yaml
 demo/data/
 # 内部对齐测试(引用 lab 私有路径,非公开)
 tests/test_train_alignment.py
+*.Identifier
 
 # ...but the release splits themselves are tracked
 !datasets/
